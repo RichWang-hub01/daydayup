@@ -1,6 +1,5 @@
-package com.wx.netty.test;
+package com.wx.netty.bio;
 
-import lombok.extern.slf4j.Slf4j;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;
@@ -14,8 +13,8 @@ import java.net.Socket;
  * @description
  *
  **/
-public class NettyServer {
-    private static final Logger log = Logger.getLogger(NettyServer.class);
+public class BioServer {
+    private static final Logger log = Logger.getLogger(BioServer.class);
 
     public static void main(String[] args) throws IOException {
         // 创建一个ServerSocket对象，并指定端口号
