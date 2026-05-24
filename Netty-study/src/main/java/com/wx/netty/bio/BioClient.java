@@ -1,4 +1,4 @@
-package com.wx.netty.test;
+package com.wx.netty.bio;
 
 import java.io.OutputStream;
 import java.net.InetSocketAddress;

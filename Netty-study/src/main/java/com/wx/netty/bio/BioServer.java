@@ -1,4 +1,4 @@
-package com.wx.netty.test;
+package com.wx.netty.bio;
 
 import org.apache.log4j.Logger;
 
